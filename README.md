@@ -6,3 +6,23 @@ You can get the official dataset here: [INS - Official Report](https://e.infogra
 The number of new cases are increasing day by day around the world. This API REST has information about reported cases from 32 Colombia departments.
 
 You can get the datasets from [colombia_covid_19_pipe](https://github.com/sebaxtian/colombia_covid_19_pipe) Colombia Covid 19 Pipeline.
+
+---
+
+> Work in progress ...
+
+---
+
+#### Would you like contribute?
+
+> Getting in touch with [@sebaxtianbach](https://twitter.com/sebaxtianbach)
+
+---
+
+#### License
+
+[MIT License](./LICENSE)
+
+#### About me
+
+[https://about.me/sebaxtian](https://about.me/sebaxtian)
