@@ -9,7 +9,57 @@ You can get the datasets from [colombia_covid_19_pipe](https://github.com/sebaxt
 
 ---
 
+## Requirements
+
+See [requirements.txt](./requirements.txt) file.
+
+## Source Code
+
+See [./src](./src) directory.
+
+## Documentation
+
+| Directory | Readme    |
+|-----------|-----------|
+| ./doc     | [README.md](./doc/README.md) |
+| ./src     | [README.md](./src/README.md) |
+
+### How to use
+
+Please read and execute each step below:
+
+#### Step 1
+
+Create and use Python virtual environment:
+
+```bash
+$promt> python3 -m venv .venv
+$promt> source .venv/bin/activate
+```
+
+#### Step 2
+
+Install all Python requirements:
+
+```bash
+$promt> pip3 install -r requirements.txt
+```
+
+#### Step 3
+
+Run API REST project:
+
+```bash
+$promt> ./run.sh
+```
+
+#### Step N
+
 > Work in progress ...
+
+---
+
+***That's all for now ...***
 
 ---
 

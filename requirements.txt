@@ -1,0 +1,3 @@
+# colombia_covid_19_api requirements
+Django
+djangorestframework
